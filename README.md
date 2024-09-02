@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java language and some database management
 - 💞️ I’m looking to collaborate on some basic projects
 - 📫 How to reach me https://www.facebook.com/Jbialen23
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him!
 
 <!---
 helpmecodepls1/helpmecodepls1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
