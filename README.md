@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @helpmecodepls1
 - 👀 I’m interested in improving my coding skills
-- 🌱 I’m currently learning java language and some database management
+- 🌱 I’m currently learning java language and some database management and web developing
 - 💞️ I’m looking to collaborate on some basic projects
 
 <!---
